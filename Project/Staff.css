@@ -1,0 +1,77 @@
+body{
+    font-family: sans-serif;
+    font-style: oblique;
+        margin-top: 50px;
+     margin-left: 300px;
+     background-size: 1280px 700px;
+     background-image:url(Beautiful-Library-Wallpaper.jpg);
+     box-sizing: border-box;
+    
+    }
+    .Login{
+        width:50%;
+        border-radius: 20px;
+        background-color: rgb(0,0,0,0.6);
+        border: 1px solid transparent;
+        position: flex;
+        align-items: center;
+        text-align: center;
+        padding: 100px;
+        transition-duration: 1s;
+    
+        
+    }
+    
+    
+    input{
+        font-size: medium;
+        color: white;
+        background-color: transparent;
+        height: auto;
+        width:80%;
+        padding:15px;
+        margin-top: 20px;
+        border-radius: 15px;
+        border: 1px rgb(228, 230, 229) solid;
+    }
+    #Forget{
+        padding: 1px;
+    
+    }
+    
+    input:hover{
+        height: auto;
+        width:80%;
+        padding: 15px;
+        margin-top: 20px;
+        border-radius: 15px;
+        border: 1px rgb(0, 255, 221) solid;
+    }
+    button{
+        transition-duration: 1s;
+        color: white;
+        margin-top: 10px;
+        width: 90px;
+        height: 40px;
+        border-radius: 50px ;
+        border: thin;
+        background-color:burlywood;
+        cursor: pointer;
+    }
+    button:hover{
+        color: white;
+        transition-duration: 1s;
+        box-shadow: inset -50px 0px 0px 0px rgb(153, 255, 0), inset 50px 0px 0px 0px rgb(153, 255, 0); 
+        margin-top: 10px;
+        width: 90px;
+        height: 40px;
+        border-radius: 50px ;
+        border: thin;
+        
+        cursor: pointer;
+    }
+    a{
+    text-decoration: none;
+        cursor: pointer;
+    }
+    

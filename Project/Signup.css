@@ -1,0 +1,147 @@
+
+a:hover{
+    background-color:red;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    align-items: center;
+    position:absolute;
+    margin-bottom: 100px;
+    border: 1px solid red;
+    font-size: medium;
+    margin-top: 40px;
+     background-color:rgb(218, 86, 86);
+    cursor: pointer;
+    margin-left: -20px;
+    border-radius: 15px;
+}
+body{
+    font-family: sans-serif;
+    font-style: oblique;
+        margin-top: 50px;
+     margin-left: 300px;
+     background-size: 1280px 700px;
+     background-image:url(mEF1kPI.jpg);
+
+    
+    }
+    .Alert{
+        text-align:center;
+        background-color: rgb(0, 255, 64);
+        border: 1px solid;
+        width:90%;
+        height:30px;
+        color: white;
+        font-size: medium;
+        border-radius:10px;
+        margin-top: -80px;
+    }
+    #btn{ 
+        
+        font-size: medium;
+        margin-top: 40px;
+        width:50%;
+        height: 100px;
+        background-color:rgb(218, 86, 86);
+        cursor: pointer;
+    }
+    #btn:hover{ 
+        
+        font-size: medium;
+        margin-top: 40px;
+        width: 100px;
+        background-color:rgb(255, 0, 0);
+        cursor: pointer;
+    }
+    #Login{
+        width:50%;
+        border-radius: 20px;
+        background-color: rgb(0,0,0,0.6);
+        border: 1px solid transparent;
+        position: flex;
+        align-items: center;
+        text-align: center;
+        padding: 100px;
+        margin-top:10px;
+     
+        
+    }
+    input{
+        outline: none;
+        transition-duration: 0.3s;
+        font-size: medium;
+        color:whitesmoke;
+        background-color:transparent;
+        height: auto;
+        width:80%;
+        padding:15px;
+        margin-top: 20px;
+        border-radius: 15px;
+        border: 1px solid rgb(226, 135, 135);
+    
+    }
+    input:hover{
+        font-size: medium;
+        color: white;
+        background-color: transparent;
+        height: auto;
+        width:84%;
+      
+        padding:15px;
+        margin-top: 20px;
+        border-radius: 15px;
+        border: 1px solid rgb(21, 255, 0);
+    }
+    input:focus{
+        font-size: medium;
+        color: white;
+        background-color: transparent;
+        height: auto;
+        width:84%;
+      
+        padding:15px;
+        margin-top: 20px;
+        border-radius: 15px;
+        border: 2px solid rgb(21, 255, 0);
+    }
+ 
+    #Forget{
+        padding: 1px;
+        text-decoration: none;
+    }
+    
+    button{
+        font-family: sans-serif;
+        font-style: oblique;
+font-size: medium;
+color: rgb(240, 237, 237);
+border: 0px;
+        margin-top: 10px;
+        width:auto;
+        height: 40px;
+        border-radius: 50px ;
+        border:0px;
+border: color(rgb(131, 202, 109));
+        background-color: teal;
+        box-shadow: 1px 1px 0px 0px;
+        cursor: pointer;
+    }
+    button:hover{
+        font-family: sans-serif;
+        font-style: oblique;
+font-size: medium;
+color: white;
+border: 0px;
+        margin-top: 10px;
+        width:auto;
+        height: 40px;
+        border-radius: 50px ;
+        border:0px;
+background-color:cyan;
+        box-shadow: 1px 1px 0px 0px;
+        cursor: pointer;
+    }
+  
+    
