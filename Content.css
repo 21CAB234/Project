@@ -1,0 +1,117 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#Dashboard{
+margin-top: -8px;
+margin-left: -8px;
+padding-top: 20px;
+    background-color: plum;
+    border: 1px solid plum;
+width:100px;
+height: 600px;
+padding-left: 20px;
+overflow: hidden;
+text-align:left;
+}
+#Th{
+    padding-left: 1px;
+}
+td{
+
+    background-color: gainsboro;
+    text-align: center;
+    padding: 10px ;
+}
+th{
+background-color:plum;
+    padding-left: 60px;
+}
+#table{
+    padding-top: 10px;
+    height:40px;
+    width: 1180px;
+    border-radius: 10px;
+    position: fixed;
+
+    
+    margin-top: 300px;
+    margin-left: 150px;
+}
+a{
+    
+display: block;
+    padding-top: 20px;
+    text-decoration: none;
+    color: white;
+
+}
+.box1,.box2,.box3,.box4{
+    text-align: left;
+    padding-top: 10px;
+    padding-left:20px;
+    width: 200px;
+    height: 100px;
+    margin-left:30px;
+border-radius: 4px;
+}
+.box1{
+   
+    background-color: rgba(238, 167, 116, 0.281);
+}
+.box2{
+background-color: rgba(197, 51, 153, 0.541);
+}
+.box3{
+    background-color: rgb(6, 236, 6);
+}
+.box4{
+    background-color: rgba(151, 62, 235, 0.753);
+}
+#Box
+{background-color: white;
+margin-top:100px;
+position: fixed;
+display:flex;
+flex-direction:row;
+    width:auto;
+    height:auto;
+    margin-left:120px;
+ 
+}
+img{
+    margin-top: 10px;
+    margin-left: 1300px;
+    position: fixed;
+    border-radius: 50px;
+    width:25px;
+    height: 25px;
+}
+
+#Searchbox:focus{
+animation-duration: 1s;
+border:1px solid rgb(0, 255, 242);;
+  
+}
+#Searchbox:hover{
+    animation-duration: 1s;
+    border: 1px solid rgb(0, 255, 242);;
+        
+    }
+
+#Searchbox{
+    border-radius: 10px;
+    outline: none;
+    padding: 9px;
+    border: none;
+   outline: none;
+    background-color:gainsboro;
+    margin-top: 10px;
+    position: fixed;
+    margin-left: 1100px;
+}
+#Home{
+margin-top: 150px;
+}
+body{
+    overflow: scroll;
+}
